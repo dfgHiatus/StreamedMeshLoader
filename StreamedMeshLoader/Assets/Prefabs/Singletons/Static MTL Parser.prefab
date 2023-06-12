@@ -58,8 +58,9 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 1202804449801420959}
-  mtlMaterialPrefab: {fileID: 3495054018442429342}
+  mtlMaterialPrefab: {fileID: 0}
   mtlUtils: {fileID: 6669571269662913675}
+  mtlMat: {fileID: 3495054018442429342}
 --- !u!114 &1202804449801420959
 MonoBehaviour:
   m_ObjectHideFlags: 0
